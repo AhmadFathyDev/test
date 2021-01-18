@@ -1,3 +1,3 @@
-# test
+﻿# test
 
-this repo 4 testing somthing ☺
+this repo for testing something ☺
